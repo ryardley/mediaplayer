@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.rudiyardley.player.plugins.VideoScreen"/>
+<classEntry path="com.rudiyardley.player.model.MediaPlaylistIterator"/>
+<classEntry path="com.rudiyardley.player.events.MediaPlayerEvent"/>
+<classEntry path="com.rudiyardley.player.app.IState"/>
+<classEntry path="com.rudiyardley.player.controller.MediaPlayerController"/>
+<classEntry path="com.rudiyardley.player.app.IMediaPlayerModel"/>
+<classEntry path="com.rudiyardley.player.app.IPositionView"/>
+<classEntry path="com.rudiyardley.player.model.MediaPlaylist"/>
+<classEntry path="com.rudiyardley.player.plugins.WaitingStatus"/>
+<classEntry path="com.rudiyardley.player.MediaPlayerAS"/>
+<classEntry path="com.rudiyardley.player.app.IBufferingView"/>
+<classEntry path="com.rudiyardley.player.plugins.VideoTitleFlex"/>
+<classEntry path="com.rudiyardley.player.controller.states.VideoPausedState"/>
+<classEntry path="com.rudiyardley.player.model.MediaObject"/>
+<classEntry path="com.rudiyardley.player.app.IMediaPlayer"/>
+<classEntry path="com.rudiyardley.player.controller.states.IdleState"/>
+<classEntry path="com.rudiyardley.player.plugins.PauseButtonFlex"/>
+<classEntry path="com.rudiyardley.player.plugins.RetractFullscreenButtonFlex"/>
+<classEntry path="com.rudiyardley.player.plugins.HPlaylistPluginFlex"/>
+<classEntry path="com.rudiyardley.player.view.animation.ProgrammaticSpinnerAnimation"/>
+<classEntry path="com.rudiyardley.player.app.IPlugin"/>
+<classEntry path="com.rudiyardley.player.controller.states.BaseState"/>
+<classEntry path="com.rudiyardley.player.plugins.MuteButtonFlex"/>
+<classEntry path="com.rudiyardley.player.enums.MediaPlayerStates"/>
+<classEntry path="com.rudiyardley.player.plugins.UnmuteButtonFlex"/>
+<classEntry path="com.rudiyardley.player.plugins.PlayButtonFlex"/>
+<classEntry path="com.rudiyardley.player.controller.states.VideoPlayingState"/>
+<classEntry path="com.rudiyardley.player.plugins.TotalTimeCounterFlex"/>
+<classEntry path="com.rudiyardley.player.controller.states.VideoBufferingState"/>
+<classEntry path="com.rudiyardley.player.plugins.SeekbarSliderFlex"/>
+<classEntry path="com.rudiyardley.player.plugins.LaunchFullscreenButtonFlex"/>
+<classEntry path="com.rudiyardley.player.controller.states.VideoLoadingState"/>
+<classEntry path="com.rudiyardley.player.plugins.BufferingBarSliderFlex"/>
+<classEntry path="com.rudiyardley.player.MediaPlayerFlex"/>
+<classEntry path="com.rudiyardley.player.app.IMediaPlayerController"/>
+<classEntry path="com.rudiyardley.player.model.MediaPlayerModel"/>
+<classEntry path="com.rudiyardley.player.plugins.PlaylistFlex"/>
+<classEntry path="com.rudiyardley.player.controller.states.VideoSeekState"/>
+<classEntry path="com.rudiyardley.player.plugins.VolumeBarSliderFlex"/>
+<classEntry path="com.rudiyardley.player.controller.states.VideoErrorState"/>
+<classEntry path="com.rudiyardley.player.plugins.ElapsedTimeCounterFlex"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
